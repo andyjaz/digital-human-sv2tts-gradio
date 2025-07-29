@@ -1,0 +1,12 @@
+numpy
+scipy
+librosa
+torch
+torchaudio
+gradio
+soundfile
+matplotlib
+opencv-python
+moviepy
+numba
+PyQt5
